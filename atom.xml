@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-21T08:59:42.939Z</updated>
+  <updated>2020-10-21T14:06:11.155Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自定义view（一）</title>
+    <link href="http://example.com/2020/10084000.html"/>
+    <id>http://example.com/2020/10084000.html</id>
+    <published>2020-10-08T01:25:00.000Z</published>
+    <updated>2020-10-21T14:06:11.155Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;自定义view-一-绘制篇&quot;&gt;&lt;a href=&quot;#自定义view-一-绘制篇&quot; class=&quot;headerlink&quot; title=&quot;自定义view (一) 绘制篇&quot;&gt;&lt;/a&gt;自定义view (一)</summary>
+        
+      
+    
+    
+    
+    <category term="Android" scheme="http://example.com/categories/Android/"/>
+    
+    
+    <category term="自定义View" scheme="http://example.com/tags/%E8%87%AA%E5%AE%9A%E4%B9%89View/"/>
+    
+  </entry>
   
   <entry>
     <title>Html学习</title>
